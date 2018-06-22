@@ -303,7 +303,7 @@ html {
   display: flex; }
 
 nav {
-  flex: 0 0 300px;
+  flex: 0 0 140px;
   background: #ccc;
   min-height: 100vh; }
 
@@ -322,7 +322,8 @@ nav ul li {
 nav ul li span,
 nav ul li button {
   display: block;
-  padding: 1em;
+  font-size: .8rem;
+  padding: .5rem;
   text-align: center; }
 
 nav ul li button {
